@@ -2,6 +2,11 @@
 	Property: value
 }*/
 
+body {
+	background-image: url(markus-spiske-3tbtq3oCQ1s-unsplash.jpg);
+	background-size: cover;
+}
+
 h2 {
 	color: red;
 	text-align: center;
