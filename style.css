@@ -31,7 +31,7 @@ li {
 	display: inline-block;
 }
 
-.webtext:last-child {
+.webtext:first-child {
 	border: 5px dashed green;
 }
 
